@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DF0E635A-9B67-4FFE-8A34-6ED19D04751C"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9DE7C4F8-3336-4B5D-BEF5-2E375D65EA72"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FinalProject/FinalProject/Views/ThemedButton.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FD6DEFD8-451C-4593-BEF6-0916AE3B67A3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FinalProject/FinalProject/Views/StatisticsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "StatisticsView"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "69852547-6504-4A14-A7EC-7BFB6AE970E4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FinalProject/FinalProject/Views/InstrumentationView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "187"
+            endingLineNumber = "187"
+            landmarkName = "buttons"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95D8DAE6-3A65-4517-8E27-7ED57D6C9541"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FinalProject/FinalProject/Views/InstrumentationView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "188"
+            endingLineNumber = "188"
+            landmarkName = "buttons"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "95D8DAE6-3A65-4517-8E27-7ED57D6C9541 - 7fc21976a1f08271"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Spacer, FinalProject.ThemedButton, FinalProject.ThemedButton, FinalProject.ThemedButton, SwiftUI.Spacer)&gt; in closure #1 (ComposableArchitecture.ViewStore&lt;Simulation.SimulationState, Simulation.SimulationState.Action&gt;) -&gt; SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Spacer, FinalProject.ThemedButton, FinalProject.ThemedButton, FinalProject.ThemedButton, SwiftUI.Spacer)&gt;&gt; in FinalProject.InstrumentationView.buttons.getter : some"
+                  moduleName = "FinalProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/loui/Documents/Swift/S65GAssignments21/FinalProject/FinalProject/FinalProject/Views/InstrumentationView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "190"
+                  endingLineNumber = "190"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  uuid = "95D8DAE6-3A65-4517-8E27-7ED57D6C9541 - 2f3b87934629bb6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Spacer, FinalProject.ThemedButton, FinalProject.ThemedButton, FinalProject.ThemedButton, SwiftUI.Spacer)&gt; in closure #1 (ComposableArchitecture.ViewStore&lt;Simulation.SimulationState, Simulation.SimulationState.Action&gt;) -&gt; SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Spacer, FinalProject.ThemedButton, FinalProject.ThemedButton, FinalProject.ThemedButton, SwiftUI.Spacer)&gt;&gt; in FinalProject.InstrumentationView.buttons.getter : some"
+                  moduleName = "FinalProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/loui/Documents/Swift/S65GAssignments21/FinalProject/FinalProject/FinalProject/Views/InstrumentationView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "191"
+                  endingLineNumber = "191"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "91BCAA81-89FB-408E-A07B-C69EC3DBFBAE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FinalProject/FinalProject/Views/SimulationView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
