@@ -1,3 +1,14 @@
+# Final Project
+
+_ Full implementation of a Conway's Game of Life app using Swift.
+_ Base code was written and provided by Professor Van Simmons.
+_ Sections written by me are denoted by comments, matching the Problem number and instructions below the ----- line.
+
+# Screenshots of application in action:
+
+
+------------
+
 # Final Project - Putting it all together
 
 You have been provided with a base of code which does most of what was required in Assignment 4.  You are to implement the following problems in this base.  You are required to submit this by modifying the files in place and committing to your repo _in the main branch_.  Do not zip your files and upload them to github.  Do not create an additional branch.  Do not rename the directories or files. Do not move code from the file in which is located. Just change the code, commit and push.
